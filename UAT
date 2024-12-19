@@ -1,0 +1,10 @@
+ git pull: is used to fetch changes from a remote repository and merge them into your current local branch.
+      - Essentially, it combines git fetch and git merge in one step.
+
+- git push: is used to upload your local commits to a remote repository.
+      - It pushes your changes to a remote branch, sharing your updates with others. 
+
+- git fetch: retrieves the latest changes from a remote repository, but it does not merge them into your local branch.
+
+- git clone: is used to create a copy of a remote repository on your local machine.
+      - It downloads the entire repository, including all branches, commits, and history.
